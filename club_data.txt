@@ -1,0 +1,24 @@
+Google Developer Group on Campus (GDGC) are university-based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDGC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their communities. It is open to any student, ranging from novice developers to advanced developers.
+
+Opportunities GDGC Provides:
+- Peer-to-peer workshops and events
+- Industry experience by solving real problems
+- Showcasing prototypes to community and industry leaders
+- Learning from success stories of other developers
+
+Vision:
+To create a community of passionate developers who learn and grow together. To provide a platform for students to collaborate and solve real-world problems with technology.
+
+Mission:
+To provide students with resources and opportunities to grow as developers. To build a community of students who are passionate about technology.
+
+PAST EVENTS:
+
+1. TECH WINTER BREAK 2024:
+A two-day online tech fest organized by GDG VIT Bhopal. It includes learning React, Flask, and Flutter through hands-on workshops. Day 1 focuses on Web Development using React and Flask. Day 2 focuses on Flutter and Dart for app development. The event prepares students for the Google Solution Challenge 2025.
+
+2. GOOGLE OLYMPICS 2K25:
+A flagship event by GDG VIT Bhopal. Teams represent different countries and compete in logic, technical skills, quick thinking, and teamwork. The event is filled with challenges, plot twists, thrill, and intense competition.
+
+3. BUILD WITH AI – VITB Edition:
+A global AI/ML workshop series event. Participants learn to integrate AI tools into real-world projects. Suitable for both beginners and experienced coders.
